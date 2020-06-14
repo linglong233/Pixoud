@@ -1,0 +1,16 @@
+[
+{
+  "modid": "pixoud",
+  "name": "pixoud",
+  "description": "pixoud Mod by LingLong",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["lingling"],
+  "credits": "The Forge and FML guys, Masashi Kishimoto",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
