@@ -11,7 +11,7 @@ public class Fluida extends Fluid
         super("a");
         this.setUnlocalizedName("fluida");
         this.setDensity(13600);
-        this.setViscosity(1000);
+        this.setViscosity(5000);
         this.setLuminosity(0);
         this.setTemperature(300);
     }
