@@ -1,1 +1,1 @@
-# Pixoud Mod（似乎没有什么介绍的）
+# Pixoud Mod（似乎没有什么要介绍的）
